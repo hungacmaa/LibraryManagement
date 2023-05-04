@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/AdminAddBook"
+        android:icon="@drawable/add_icon"
+        android:title="Thêm sách" />
+
+    <item
+        android:id="@+id/AdminEditDetail"
+        android:icon="@drawable/edit_detail1_icon"
+        android:title="Chỉnh sửa" />
+
+    <item
+        android:id="@+id/AdminDashBoard"
+        android:icon="@drawable/dashboard_icon"
+        android:title="DashBoard" />
+
+    <item
+        android:id="@+id/AdminProfile"
+        android:icon="@drawable/profile_icon"
+        android:title="Cá nhân" />
+
+</menu>

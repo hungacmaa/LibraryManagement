@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/UserHome"
+        android:icon="@drawable/home_icon"
+        android:title="Trang chủ" />
+
+    <item
+        android:id="@+id/UserDashboard"
+        android:icon="@drawable/ordered_books"
+        android:title="Sách mượn" />
+
+    <item
+        android:id="@+id/UserNotification"
+        android:icon="@drawable/notifications_icon"
+        android:title="Thông báo"
+        />
+
+    <item
+        android:id="@+id/UserProfile"
+        android:icon="@drawable/profile_icon"
+        android:title="Cá nhân" />
+
+</menu>
